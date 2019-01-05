@@ -2,8 +2,6 @@
 # returns the phrase
 def parrot
   puts "Squawk!"
-  return "Squawk!"
-def return_name
-  "parrot"
 end
+  return "Squawk!"
 end
